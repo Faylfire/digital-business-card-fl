@@ -1,6 +1,11 @@
-# React + Vite
+# Digital Business Card 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React project created in the Scrimba Frontend Development Career Path. 
+
+This project makes use of Tailwind CSS with React Components styled largely to the figma design provided by the Scrimba Course.
+
+-------------------
+This was created using the template that provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
