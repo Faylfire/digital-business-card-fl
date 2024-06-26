@@ -2,6 +2,10 @@
 
 A React project created in the Scrimba Frontend Development Career Path. 
 
+The main focus of this project is on using React Components using Tailwind for styling and following the Figma Design.
+
+Some added functionality: Dark and Light Theme, two button styles one with linkedin button pulled out from the footer, Made use of drop-shadows for a premium feel.
+
 This project makes use of Tailwind CSS with React Components styled largely to the figma design provided by the Scrimba Course.
 
 -------------------
